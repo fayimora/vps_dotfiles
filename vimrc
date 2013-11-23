@@ -106,3 +106,8 @@ set sidescroll=1
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+
+
+let g:solarized_termcolors=16
+colorscheme solarized
+set background=dark
